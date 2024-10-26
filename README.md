@@ -5,7 +5,7 @@
 
 Experienced Web Developer & Digital Marketing Specialist | Former Graphics Designer at Onnorokom.com, Digital Marketer & Customer Support Executive at Eshikhon.com, Sales Executive at Adarsha | Skilled in Web Development, Technical support, Digital Marketing, Programming, Communication, Team Management, Creative thinking, Presentation Skills and many more | Strong administrative professional with a B.Sc. in Computer Science from Daffodil Institute of IT and Former student of Notre Dame College.
 
-Skills: PHP - LARAVEL - REACT - JS - HTML - CSS
+Skills: PHP - LARAVEL - REACT - VUE - HTML - CSS
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
